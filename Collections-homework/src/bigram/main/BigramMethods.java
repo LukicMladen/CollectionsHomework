@@ -11,7 +11,7 @@ public class BigramMethods {
 		String string = "abbcceeeeeeabcc";
 		b.ubaciBigrameIzStringaUMapu(string, hashMapa);
 		b.stampajHashMapu(hashMapa);
+		System.out.println("Rezultat: " +b.kojaTriKaraktera(hashMapa, "ja"));
 		
-	
 	}
 }
